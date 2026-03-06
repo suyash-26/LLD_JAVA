@@ -1,0 +1,6 @@
+
+// This is config of commentSectionWithSql package
+
+commentSectionWithSql.db.url=add your sql url
+commentSectionWithSql.db.user=add sql username
+commentSectionWithSql.db.password= add sql password
